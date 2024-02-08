@@ -237,11 +237,12 @@ section {
   margin-top: 20px;
 }
 
-.footer_logo {
-  /* margin-top: 20px; */
+.footer_img img {
+  width: 40px;
+  margin: 15px;
 }
 
 .footer_logo img {
-  width: 200px;
+  width: 400px;
   height: 300px;
 }
